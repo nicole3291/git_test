@@ -1,0 +1,2 @@
+open hello world and add some text to it, save it and stage it.
+i will use crtl and s to save. then i will write git add hello_world.txt and press git status to check if its been moved to the staging area.
